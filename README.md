@@ -1,6 +1,9 @@
 # Hospital-Re-Admission-Prediction
 This project uses machine learning to predict hospital readmission using the Kaggle hospital readmission dataset. The model achieved an accuracy of 83% in predicting readmission within 30 days of discharge which can help hospitals provide better care and reduce healthcare costs.
 
+## About me
+i am a computer science engineer specialized in data science and machine learning, I offer my services on Fiverr. you can check out my gig [here] (https://www.fiverr.com/jalilb_/build-machine-learning-deep-learning-projects-with-python)
+
 ## Dataset
 The Kaggle hospital readmission dataset contains over 100,000 hospital admissions from diabetic patients. The dataset includes patient demographics, medical history, medications, and laboratory tests, as well as information about the hospital admission and readmission.
 
